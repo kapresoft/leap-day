@@ -7,6 +7,6 @@ The Java Blogger
 
 ## Articles
 
-* [Getting Started with Gradle](docs/getting-started-with-gradle)
+* [Getting Started with Gradle](getting-started-with-gradle)
 
 
