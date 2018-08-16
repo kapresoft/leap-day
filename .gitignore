@@ -1,3 +1,4 @@
+#.idea/
 _site/
 .sass-cache/
 Gemfile.lock
@@ -8,5 +9,5 @@ Gemfile.lock
 
 _posts
 _includes
-#_layouts/default.html
-#_layouts/no_ads.html
+_layouts/default.html
+_layouts/no_ads.html
