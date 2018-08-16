@@ -3,9 +3,15 @@ description: Leap Day is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-leap-day
+excerpt_separator: <!--excerpt-->
+
+github:
+  is_project_page: true
+  owner_url: https://github.com/kapresoft/kapresoft.github.io
+  owner_name: KapreSoft (Antonio Lagnada)
 
 plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
 
-  
+exclude:  [".idea/"]

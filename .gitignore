@@ -1,4 +1,12 @@
-_site
-.sass-cache
+_site/
+.sass-cache/
 Gemfile.lock
 *.gem
+### Jekyll template
+.jekyll-cache/
+.jekyll-metadata
+
+_posts
+_includes
+#_layouts/default.html
+#_layouts/no_ads.html
