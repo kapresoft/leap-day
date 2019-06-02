@@ -1,12 +1,3 @@
----
-layout: default
----
-
 # kapresoft.github.io
-The Java Blogger
 
-## Articles
-
-* [Getting Started with Gradle](getting-started-with-gradle)
-
-
+[KapreSoft](https://www.kapresoft.com) GitHub Page
